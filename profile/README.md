@@ -2,6 +2,6 @@
 
 ## Autores
 
-- Barmasch, Juan Martín (61033)
-- Bellver, Ezequiel (61268)
-- Lo Coco, Santiago (61301)
+- [Barmasch, Juan Martín](https://github.com/jbarmasch)
+- [Bellver, Ezequiel](https://github.com/ebellver)
+- [Lo Coco, Santiago](https://github.com/slococo)
